@@ -1,9 +1,25 @@
-# gitcheatsheet
+# Gitcheatsheet
+
+
+### Concepts
+
+## DAG concept
+## What is a commit
+## what DAG properties is som important in GIT
+
+## Proposed workflow
+# Insert proposed workflow. 
+
+
 
 ## Useful Tips
 - Do not use space in naming files and branches
+- Do not use Git Pull
+- Do not use reset
+
 - 
 ## Useful Commands
+- use git branch, git stauts to check open
 
 ### Safe commands
 
