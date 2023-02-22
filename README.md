@@ -1,11 +1,17 @@
 # Gitcheatsheet
 
 
-### Concepts
+### Acyclicity Nature
 
-## DAG concept
+The Git Commit history is a Directed Acyclic Graph （"DAG"), where the commits form the nodes and the pointers to the parents from the edges.  The acyclicity property ensures the commit history is well-defined and cannot contain cycles or loops, where parents do not point back to their children
+
+
+
 ## What is a commit
-## what DAG properties is som important in GIT
+
+A commit is a pointer to the location insider the .git folder where Git has stored your changes. Commit object
+
+### Three stages of Git
 
 ## Proposed workflow
 # Insert proposed workflow. 
